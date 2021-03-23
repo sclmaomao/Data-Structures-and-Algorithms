@@ -3,7 +3,7 @@
 ## Overview - 
 
 ### Data Structures - 
-1. Arrays
+1. Arrays (Dynamic Array)
 2. Graphs
 3. Hashtables (dictionary)
 4. Linked Lists
